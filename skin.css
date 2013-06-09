@@ -1,12 +1,12 @@
 #player,#player a{ color:#084670; }
-#player{ background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
-#player .mainImage{ background:url(main.png); }
+#player{ background:url(https://github.com/b35/scm_skin/blob/master/sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important; }
+#player .mainImage{ background:url(https://github.com/b35/scm_skin/blob/master/main.png); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #pause{ left:32px; }
-#player #play{ background:url(playBtn.png);left:31px; }
+#player #play{ background:url(https://github.com/b35/scm_skin/blob/master/playBtn.png);left:31px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:90px;}
@@ -20,7 +20,7 @@
 #player #seekerSliderBase{ background-color:#084670; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(https://github.com/b35/scm_skin/blob/master/sizerAndVol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#03385c; color:#084670; }
 #playlist h3{ background-color: #096871; color:#FFF;}
